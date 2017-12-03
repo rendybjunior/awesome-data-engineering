@@ -11,6 +11,7 @@ A curated list of awesome data engineering resources.
 
 ## Big Data Technology
 - [Technology Map](http://xyz.insightdataengineering.com/blog/pipeline_map/), provided by Insight Data Engineering
+- [Mastering Apache Spark (a git book)](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
 
 ## Data Warehouse
 - [Star Schema Dimensional Modeling](http://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/)
