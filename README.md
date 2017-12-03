@@ -7,7 +7,7 @@ A curated list of awesome data engineering resources.
 - [Stream Processing Concept 2](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102)
 
 ## Architecture
-- [The Log - Kafka Blog](The Log: What every software engineer should know about real-time data's unifying abstraction)
+- [The Log - Kafka Blog](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
 ## Big Data Technology
 - [Technology Map](http://xyz.insightdataengineering.com/blog/pipeline_map/), provided by Insight Data Engineering
