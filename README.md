@@ -5,6 +5,7 @@ A curated list of awesome data engineering resources.
 - [Designing Data-Intensive Application](https://dataintensive.net/)
 - [Stream Processing Concept 1](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
 - [Stream Processing Concept 2](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102)
+- [Stream Design Patterns](https://iwringer.wordpress.com/2015/08/03/patterns-for-streaming-realtime-analytics/)
 
 ## Architecture
 - [The Log - Kafka Blog](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
